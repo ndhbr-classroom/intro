@@ -22,7 +22,7 @@ So, fertig. Nun geht's an die Ausführung. Wie bereits vorher erwähnt, existier
 
 Das Ziel des Programms ist es, dass das Programm dich nach deinem Namen frägt und es diesen in folgender Form wieder ausgibt.
 
-```javascript
+```bash
 > Wie ist dein Name? Andreas
 Hallo, mein Name ist Andreas!
 ```
