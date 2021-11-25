@@ -11,7 +11,7 @@ Um das Projekt bei dir zu initialisieren, benötigst du weitere Pakete. Welche P
 
 Mit dem Befehl
 ```bash
-> npm install 
+npm install 
 ```
 werden alle in der Datei **package.json** aufgelisteten Abhängigkeiten nachinstalliert.
 
@@ -23,13 +23,13 @@ So, fertig. Nun geht's an die Ausführung. Wie bereits vorher erwähnt, existier
 Das Ziel des Programms ist es, dass das Programm dich nach deinem Namen frägt und es diesen in folgender Form wieder ausgibt.
 
 ```bash
-> Wie ist dein Name? Andreas
+Wie ist dein Name? Andreas
 Hallo, mein Name ist Andreas!
 ```
 
 Um das Programm auszuführen, solltest du in der Shell folgenden Befehl ausführen:
 ```bash
-> node index.js
+node index.js
 ```
 
 Lass mich raten, du wirst bereits nach deinem Namen gefragt, aber nach Drücken der Enter-Taste beendet sich das Programm einfach?
@@ -56,6 +56,6 @@ Glückwunsch, das war's.
 
 Wenn alles geklappt hat, ist die Aufgabe nun bereit zum abgeben. Teste sie doch gleich aus. Die Prozedur ist dieselbe. Starte die Anwendung mit:
 ```bash
-> node index.js
+node index.js
 ```
 und probier es doch mit deinem Namen aus! :)
