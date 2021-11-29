@@ -17,6 +17,9 @@ werden alle in der Datei **package.json** aufgelisteten Abhängigkeiten nachinst
 
 Wenn alles funktioniert hat, solltest du nun einen neuen Ordner **node_modules/** haben.
 
+>Der Befehl funktioniert nicht?
+>Überprüfe ob du dich in der Shell auch in dem Aufgabenordner befindest.
+
 ## Schritt 2: Ausführung
 So, fertig. Nun geht's an die Ausführung. Wie bereits vorher erwähnt, existieren bereits einige Dateien, die dir den Einstieg erleichtern. Diese bilden die Grundstruktur des Programms.
 

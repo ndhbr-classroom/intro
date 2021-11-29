@@ -6,5 +6,5 @@ test('testing with different names', () => {
 
   printName(randomName);
 
-  expect(consoleSpy).toHaveBeenCalledWith(`Hallo, mein Name ist ${randomName}!`);
+  expect(consoleSpy).toHaveBeenCalledWith(`Hallo, mein Name ist ${randomName}`);
 });
